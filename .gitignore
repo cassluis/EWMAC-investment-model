@@ -1,0 +1,7 @@
+__pycache__/
+._*
+.DS_Store
+*.csv
+
+# Generated
+equity_curve.png
